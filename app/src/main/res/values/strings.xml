@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DEVAndroid_spring_24</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="news_image">News Image</string>
+</resources>
